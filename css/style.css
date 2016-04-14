@@ -1,0 +1,33 @@
+body{
+    
+    text-align:center;
+    
+}
+
+.masthead-nav > li {
+  display:inline-block;
+    margin-right: 35px;
+}
+
+.masthead-brand .logo {
+    max-width: 80px;
+    height: auto;
+    margin: 50px 0 20px 0;  
+}
+
+.main-text {
+    
+    display: block;
+    text-align: center;
+    float: none;
+    border-width:3px;	
+    border-style:double; 
+}
+
+.site-wrapper {
+    background: url(bg.jpg);
+}
+
+.mastfoot {
+    margin-top: 250px;
+}
